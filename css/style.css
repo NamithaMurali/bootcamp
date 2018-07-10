@@ -1,0 +1,22 @@
+
+  .container
+  {
+
+    padding:10px;
+    border: solid 4px ;
+    margin-left: 80px ;
+    margin-right: 80px ;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-family: sans-serif;serif
+  }
+
+li{
+  padding:10px;
+  list-style-type:disc;
+  background-color:blue;
+}
+
+p2{
+  align-content: center;
+}
